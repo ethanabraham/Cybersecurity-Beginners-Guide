@@ -1,8 +1,9 @@
 # Cybersecurity-Beginners-Guide
-BREAKING INTO INFOSEC
+BREAKING INTO INFOSEC    
+
 Anti virus
 
--   [Bit defender](https://www.bitdefender.com/solutions/antivirus.html)
+-  [Bit defender](https://www.bitdefender.com/solutions/antivirus.html)
     
 -   [Norton](https://www.nortonsecurityonline.com/)
     
